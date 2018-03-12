@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11877 -108 495.5 151.879">
+  <defs>
+    <style>
+      .cls-1, .cls-8 {
+        fill: #3db5b0;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #ec7404;
+      }
+
+      .cls-3 {
+        fill: #f6a800;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #e30059;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #3db5b0;
+        stroke-miterlimit: 10;
+        stroke-width: 11.112px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-size: 69.44px;
+        font-family: FengardoNeue-Black, Fengardo Neue;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Group_6408" data-name="Group 6408" transform="translate(11877 -104.377)">
+    <path id="Path_3006" data-name="Path 3006" class="cls-1" d="M70,32.8H0l35,35Z"/>
+    <path id="Path_3007" data-name="Path 3007" class="cls-2" d="M0,102.8H70l-35-35Z"/>
+    <path id="Path_3008" data-name="Path 3008" class="cls-3" d="M70,102.8v-70l-35,35Z"/>
+    <path id="Path_3009" data-name="Path 3009" class="cls-4" d="M0,32.8v70l35-35Z"/>
+    <line id="Line_1" data-name="Line 1" class="cls-5" x2="121.6" transform="translate(373.9 142.7)"/>
+    <text id="INSTITUTO" class="cls-6" transform="translate(101.711 59.377)"><tspan x="0" y="0">INSTITUTO</tspan></text>
+    <text id="PRECISA" class="cls-7" transform="translate(101.711 126.047)"><tspan x="0" y="0">PRECISA</tspan></text>
+    <text id="SER" class="cls-8" transform="translate(373.872 126.047)"><tspan x="0" y="0">SER</tspan></text>
+  </g>
+</svg>

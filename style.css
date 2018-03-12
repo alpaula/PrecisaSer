@@ -1,0 +1,112 @@
+*,
+*:after,
+*:before{
+	margin: 0; 
+	padding: 0;
+	box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Fengardo_Neue;
+    src: url(fonts/Fengardo_Neue/FengardoNeue_Black.otf);
+}
+@font-face{
+	font-family: ProximaNovaBlack;
+	src: url(fonts/ProximaNovaBlack.otf);
+}
+
+a:hover{
+	color: #3DB5B0;
+	text-decoration: underline;
+}
+
+.cabecalho{
+	width: 100%;
+	height: 958px;
+}
+.cabecalho-gradiente{
+	width: 100%;
+	height: 20px;
+	background: linear-gradient(to right, #85CFE8, #3DB5B0, #F6A800, #EC7404, #E30059);
+}
+.cabecalho-menu{
+	width: 100%;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cabecalhoMenu-logo{
+	width: 150px;
+	height: 250px;
+	margin-right: 60px; 
+}
+.cabecalhoMenu-item{
+	margin: 20px;
+	font-size: 20px;
+	text-decoration: none;
+	text-align: left;
+	font-family: Fengardo_Neue;
+	color: #e30059;
+}
+.cabecalho-hero{
+	width: 100%;
+	height: 480px;
+	background: url("assets/fundo header.jpg") top;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cabecalhoHero-gradiente{
+	width: 100%;
+	height: 480px;
+	background: linear-gradient(to bottom, rgba(133,207,232,0.3), #3DB5B0);
+	position: relative;
+}
+.cabecalhoHero-titulo{
+	width: 579px;
+	height: 149px;
+	font-family: ProximaNovaBlack;
+	font-size: 42px;
+	color: #fff;
+	position: absolute;
+
+}
+.cabecalho-destaques{
+	width: 100%;
+	height: 480px;
+	background: #3DB5B0 ;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+
+}
+.cabecalhoDestaques-titulo{
+	width: 100%;
+	height: 41px;
+	font-family: Fengardo_Neue;
+	color: #fff;
+	font-size: 36px;
+	text-align: center;
+}
+.cabecalhoDestaques-caixa{
+	width: 280px;
+	height: 380px;
+	background-color: #fff;
+	border-radius: 10px;
+	display: flex;
+	flex-flow: column wrap;
+	align-items: center;
+}
+.cabecalhoDestaquesCaixa-img{
+	width: 90%;
+	margin-top: 5%;
+	border-radius: 10px;
+
+
+}
+.cabecalhoDestaquesCaixa-link{
+
+}
+
